@@ -1,5 +1,5 @@
 # My early teenage Qbasic adventures (anno 1998)
-Here are my first steps in programming at all. All of them scripted on my 80386 after school. I found them on an old hard-disk and thought it would be fun to not only share it but to preserve it for the offspring.
+Here are my first steps in programming at all. All of the games scripted on my 80386 after school. I found them on an old hard-disk and thought it would be fun to not only share it but to preserve it for the offspring :)
 
 Back in the days I learned a lot from a computer magazine called PC Games. An attached CD-ROM contained games made by readers of the magazine. So I started to replicate their code, altered it in some way and learned from the strange effects that I caused. At some day I started writing own games and regularly copied them on all PCs of our lab in school. I was so proud to see how students played my games instead of paying attention to the class.
 
