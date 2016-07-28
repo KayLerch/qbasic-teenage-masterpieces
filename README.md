@@ -7,7 +7,7 @@ The code actually is creepy as hell and there are more bugs than features in it.
 
 #The Games
 ## Car racing
-Yes, I did it. I played Stunts a lot and maybe had some inspiration from that. The concept is simple. Try not to hit cars by changing lines. Accelarate to get more points but be aware of approaching cop cars. If you're to fast you get busted. 
+Yes, I did it. I played Stunts a lot and maybe had some inspiration from that. The concept is simple. Try not to hit cars by changing lines. Accelerate to get more points but be aware of approaching cop cars. If you're to fast you get busted. 
 ![](/carracing/img/cr01.png) ![](/carracing/img/cr02.png) ![](/carracing/img/cr03.png)
 
 ## Pong
