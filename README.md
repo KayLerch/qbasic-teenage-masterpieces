@@ -8,6 +8,7 @@ The code actually is creepy as hell and there are more bugs than features in it.
 #The Games
 ## Car racing
 Yes, I did it. I played Stunts a lot and maybe had some inspiration from that. The concept is simple. Try not to hit cars by changing lines. Accelerate to get more points but be aware of approaching cop cars. If you're too fast you get busted. 
+
 ![](/carracing/img/cr01.png) ![](/carracing/img/cr02.png) ![](/carracing/img/cr03.png)
 
 ## Pong
@@ -17,8 +18,10 @@ Of course, this one was obvious. The game not only is for single players but als
 
 ## Labyr
 My first adventure game which is not text-based but has kick-ass graphics. You are a treasure hunter entering an old castle which turns out to be a labyrinth. The scene is so scary it even has living paintings on the walls guiding you the way.
+
 ![](/labyr/img/la01.png) ![](/labyr/img/la02.png) ![](/labyr/img/la03.png) ![](/labyr/img/la04.png)
 
 ## BM98
 This was my last project which never got finished. BM98 was meant to be a football manager game with career mode. Keep in mind that EA adopted this idea in FIFA17 ;)
+
 ![](/bm98/img/bm01.png) ![](/bm98/img/bm02.png) ![](/bm98/img/bm03.png) ![](/bm98/img/bm04.png)
