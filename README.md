@@ -1,11 +1,11 @@
 # My early teenage Qbasic adventures (anno 1998)
-Here are my first steps in programming at all. All of the games scripted on my 80386 after school. I found them on an old hard-disk and thought it would be fun to not only share it but to preserve it for the offspring :)
+Here are my first steps in programming at all. All of the games were created on my 80386 after school. I found them on an old hard-disk and thought it would be fun to not only share it but to preserve it for the offspring :)
 
 Back in the days I learned a lot from a computer magazine called PC Games. An attached CD-ROM contained games made by readers of the magazine. So I started to replicate their code, altered it in some way and learned from the strange effects that I caused. At some day I started writing own games and regularly copied them on all PCs of our lab in school. I was so proud to see how students played my games instead of paying attention to the class.
 
 The code actually is creepy as hell and there are more bugs than features in it. But somehow these little peaces of software are sweet memories and serious teenage expressions ;) I even found code which insults a player when entering my brother's name ^^
 
-#The Games
+# The Games
 ## Car racing
 Yes, I did it. I played Stunts a lot and maybe had some inspiration from that. The concept is simple. Try not to hit cars by changing lines. Accelerate to get more points but be aware of approaching cop cars. If you're too fast you get busted. 
 
